@@ -17,7 +17,7 @@
 8. 假設今天
 	* 我要在資料庫裡產出一個叫 group 的資料表
 	* 裡面包括的欄位名稱和相對應的資料型別是： 
-		name (string),
-		description (text),
-		members (integer)
-請寫出一個能產生出以上需求的 migration 檔
+		######name (string),
+		######description (text),
+		######members (integer)
+    * 請寫出一個能產生出以上需求的 migration 檔
